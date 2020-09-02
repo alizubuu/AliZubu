@@ -10644,9 +10644,14 @@ textarea::-webkit-scrollbar {
 	background-color: var(--main-color)
 }
 
+
+
 .mentioned-xhSam7 {
-	background-color: rgba(68, 96, 233, 0.05)
+	background-color: rgba(68, 96, 233, 0.08)
 }
+
+
+
 
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z,
 .mouse-mode.full-motion .mentioned-xhSam7:hover {
