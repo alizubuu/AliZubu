@@ -10641,20 +10641,19 @@ textarea::-webkit-scrollbar {
 }
 
 .mentioned-xhSam7:before {
-	/**background-color: var(--main-color)**/
-	text-shadow: 1px 1px 1px #363636;
-	background:
-    linear-gradient(-100deg, 
-      rgba(64, 255, 163,0.10),
-      rgba(64, 255, 163,0.4) 100%, 
-      rgba(64, 255, 163,0.20)
-    );
+	background-color: var(--main-color)
 }
 
 
 
 .mentioned-xhSam7 {
-	background-color: rgba(68, 96, 233, 0.08)
+	text-shadow: 1px 1px 1px #363636;
+	background:
+    linear-gradient(-100deg, 
+      rgba(142, 68, 233,0.10),
+      rgba(142, 68, 233,0.4) 100%, 
+      rgba(142, 68, 233,0.20)
+    );
 }
 
 
